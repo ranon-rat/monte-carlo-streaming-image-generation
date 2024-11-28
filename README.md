@@ -8,3 +8,4 @@ For running it you can just play the command
 ```sh
 go run main.go
 ```
+![image](https://github.com/user-attachments/assets/f09f7ea0-a11b-479a-ad9b-4c00b84e9819)
